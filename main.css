@@ -1,0 +1,83 @@
+body {    background: url("kindajean.png");
+    
+	}
+  .nav a {
+  color: #fff;
+  font-size: 14px;
+  font-weight:bold;
+  padding-top:14px;
+  padding-right:10px;
+  padding-left:10px;
+  padding-bottom:14px;
+  text-transform: uppercase;
+}
+.nav{background:black;}
+.nav li{display:inline;}
+.emb { position: relative;width: 100%; height:500px;z-index: 1 !important;}
+.emb iframe,   
+.emb object,  
+.emb embed {
+    
+    height:100%;
+	width:100%;
+	
+	
+}
+.ju-container h1 {
+color:ORANGE;
+font-size:48px;
+font-weight:bold;
+font-family:'Shift', sans-serif;
+
+
+}
+.ju-container p{
+color:#fff;
+font-size:20px;
+
+
+
+}
+.ju-container{
+
+margin-top:-400px;
+background: rgba(0, 0, 0, 0.8);
+border-radius: 30px;
+text-align:center;
+position:relative;
+overflow: visible;
+z-index: 5 !important;
+margin-bottom:300px; 
+margin-left: auto;
+margin-right: auto;
+	
+box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+top: 100px;}
+
+.learn-more h3 {font-family:'Shift', sans-serif;
+font-size:18px;
+
+font-weight:bold;
+}
+.learn-more {
+  background-image:url('stardust_@2X.png');
+  margin-right:-15px;
+}
+.learn-more a {color:orange;}
+.learn-more p {color:#fff;}
+.learn-more h3 {color:#fff;}
+
+
+
+.neighborhood-guides{
+border-bottom:1px solid #dbdbdb;
+}
+.neighborhood-guides h2{color:#00688B;
+font-size:41px;
+text-align:center;}
+.neighborhood-guides p{margin-bottom:13px;
+font-size:24px;}
+.learn-more li{display:inline;}
+.neighborhood-guides h5{text-align:center;
+font-weight:bold;
+font-size:24px;}
